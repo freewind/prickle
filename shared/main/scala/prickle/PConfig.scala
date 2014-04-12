@@ -1,0 +1,5 @@
+package prickle
+
+class PConfig {
+
+}
